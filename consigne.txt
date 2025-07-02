@@ -1,0 +1,10 @@
+faire un site d'une galerie d'un artiste imaginaire.
+
+
+mettre 16 photos 
+le nombre de photo sera variable (qui permet de changer le nombre de photos affichées dans la galerie (au lieu de 16 par exemple).
+
+Quand je clique sur une photo ça ouvre la galerie et on peut zapper sur les photos.
+
+
+a la fin on fera un scroll infini au lieu du nombre defini de photos avec la variable.
